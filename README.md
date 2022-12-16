@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning Javascript
 
 - 📫 How to reach me **sotter06@gmail.com**
 
